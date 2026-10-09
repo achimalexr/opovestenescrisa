@@ -1,12 +1,11 @@
 # O poveste nescrisă — Story ended.
 
-Prima versiune: o pagină dark, în limba română, cu titlu în engleză, un epilog și sunet ambiental opțional. Sunetul pornește numai prin apăsarea butonului. Pagina respectă preferința pentru animații reduse.
+Prima versiune: o pagină dark, în limba română, cu titlu în engleză, un epilog. Site-ul nu include sunet. Pagina respectă preferința pentru animații reduse.
 
 ## Fișiere
 
 - `dist/index.html`: conținutul paginii.
 - `dist/style.css`: culori, design și adaptare la telefon.
-- `dist/script.js`: sunet ambiental generat în browser, fără înregistrări externe.
 - `dist/favicon.svg`: iconița paginii.
 
 ## Publicare pe hostingul propriu
