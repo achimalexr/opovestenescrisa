@@ -1,6 +1,6 @@
 # O poveste nescrisă — Story ended.
 
-Prima versiune: o pagină dark, în limba română, cu titlu în engleză, un epilog. Site-ul nu include sunet. Pagina respectă preferința pentru animații reduse.
+O singură pagină dark, în limba română, cu titlu în engleză, data de 18 iulie 2026 și un mesaj despre posibilitatea unui capitol nou. Site-ul nu include sunet. Pagina respectă preferința pentru animații reduse.
 
 ## Fișiere
 
